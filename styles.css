@@ -1,0 +1,22 @@
+
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  background: #f404;
+}
+
+.container {
+  display: grid;
+  grid-template-rows: 60px 450px 60px;
+}
+
+.content{
+  background: #ccc;
+}
+.footer {
+  display: flex;
+ align-items: center;
+ justify-content: center;
+  background: #333;
+}
